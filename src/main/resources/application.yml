@@ -1,0 +1,10 @@
+spring.application.name: springmodulithskaftstad
+
+spring.modulith.detection-strategy: explicitly-annotated
+
+logging:
+  level:
+    nu.westlin.gradle.springmodulithskaftstad: DEBUG
+    org.springframework.modulith: DEBUG
+    root: WARN
+  file.name: logs/application.log

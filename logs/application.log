@@ -1,0 +1,19 @@
+2024-09-05T12:50:54.721+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] .SpringmodulithskaftstadApplicationTests : Starting SpringmodulithskaftstadApplicationTests using Java 21.0.4 with PID 3781078 (started by petves in /home/petves/kotlin/projects/springmodulithskaftstad)
+2024-09-05T12:50:54.733+02:00 DEBUG 3781078 --- [springmodulithskaftstad] [Test worker] .SpringmodulithskaftstadApplicationTests : Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-05T12:50:54.734+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] .SpringmodulithskaftstadApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2024-09-05T12:50:55.084+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] .SpringmodulithskaftstadApplicationTests : Started SpringmodulithskaftstadApplicationTests in 0.498 seconds (process running for 3.533)
+2024-09-05T12:50:55.577+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : Bootstrapping @org.springframework.modulith.test.ApplicationModuleTest for Stad in mode STANDALONE (class nu.westlin.gradle.springmodulithskaftstad.SpringmodulithskaftstadApplication)…
+2024-09-05T12:50:55.577+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : 
+2024-09-05T12:50:55.578+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : # Stad
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : > Logical name: stad
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : > Base package: nu.westlin.gradle.springmodulithskaftstad.stad
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : > Direct module dependencies: skaft
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : > Spring beans:
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer :   + ….StadService
+2024-09-05T12:50:55.579+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] ustomizerFactory$ModuleContextCustomizer : 
+2024-09-05T12:50:55.581+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] n.w.g.s.stad.StadApplicationModuleTest   : Starting StadApplicationModuleTest using Java 21.0.4 with PID 3781078 (started by petves in /home/petves/kotlin/projects/springmodulithskaftstad)
+2024-09-05T12:50:55.582+02:00 DEBUG 3781078 --- [springmodulithskaftstad] [Test worker] n.w.g.s.stad.StadApplicationModuleTest   : Running with Spring Boot v3.3.3, Spring v6.1.12
+2024-09-05T12:50:55.582+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] n.w.g.s.stad.StadApplicationModuleTest   : No active profile set, falling back to 1 default profile: "default"
+2024-09-05T12:50:55.620+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] figurationAndEntityScanPackageCustomizer : Re-configuring auto-configuration and entity scan packages to: nu.westlin.gradle.springmodulithskaftstad.stad.
+2024-09-05T12:50:55.876+02:00  INFO 3781078 --- [springmodulithskaftstad] [Test worker] n.w.g.s.stad.StadApplicationModuleTest   : Started StadApplicationModuleTest in 0.313 seconds (process running for 4.324)
+2024-09-05T12:50:55.905+02:00 DEBUG 3781078 --- [springmodulithskaftstad] [Test worker] n.w.g.s.stad.StadApplicationModuleTest   : Tjena
